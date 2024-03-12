@@ -1,0 +1,1 @@
+celery -A goodreads worker -l INFO
